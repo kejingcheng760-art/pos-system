@@ -1,8 +1,0 @@
-{
-  "name": "大宜昌環保工程管理系統",
-  "description": "專為大宜昌有限公司設計的全方位 POS 與工程管理系統，涵蓋廢棄物追蹤、VOC 回收、設備管理及工地現場派工。",
-  "requestFramePermissions": [
-    "geolocation",
-    "camera"
-  ]
-}
